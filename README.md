@@ -6,4 +6,5 @@
 - ⚡ Fun fact: ... I like piano also and Taekwondo
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue)]
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifadaei&show_icons=true&theme=radical)
 
